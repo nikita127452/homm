@@ -1,0 +1,194 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+}
+.RU{
+    background-color: darkmagenta;
+    color: white;
+    border-radius: 15%;
+}
+.header2{
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin: 0 auto;
+}
+ul{
+    list-style-type: none;
+    margin: 0; 
+
+}
+li{
+    display: inline;
+    margin-right: 10px;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.yazik{
+    border-right: 1px solid black;
+    height: 45px;
+    border-left: 1px solid black;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.dengi{
+    border-right: 1px solid black;
+    height: 45px;
+    border-left: 1px solid black; 
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.mesenger{
+    border-right: 1px solid black;
+    height: 45px;
+    border-left: 1px solid black;
+    padding-right: 10px;
+    padding-left: 10px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.nomer{
+    border-right: 1px solid black;
+    height: 45px;
+    border-left: 1px solid black;
+    padding-right: 10px;
+    padding-left: 10px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.MAista{
+    border-right: 1px solid black;
+    height: 45px;
+    border-left: 1px solid black;
+    padding-right: 10px;
+    padding-left: 10px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.Tyru{
+    border-right: 1px solid rgb(59, 57, 57);
+    height: 45px;
+    border-left: 1px solid rgb(65, 63, 63);
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.text{
+    background-color: rgb(122, 115, 115);
+}
+button{
+    background-color: crimson;
+}
+.tetx{
+    background-color: darkgray;
+}
+button .button2{
+    background-color: darkred;
+}
+.nomer2{
+    margin-left: 15px;
+}
+.kartinka1{
+    width: 1440px;
+
+}
+.a1{
+    position: absolute;
+    width: 725px;
+    height: 102px;
+    left: 195px;
+    top: 335px;
+    color: rgb(245, 245, 245);
+}
+.podrobnei{
+    position: absolute;
+    width: 270px;
+    height: 60px;
+    left: 200px;
+    top: 477px;
+    text-align: center;
+    color: rgb(245, 245, 245);
+    background-color: white 25%;
+}
+.a300{
+    position: absolute;
+    width: 249px;
+    height: 45px;
+    left: 199px;
+    top: 274px;
+    border: 2px solid rgb(185, 184, 184);
+    color: rgb(255, 255, 255);
+}
+.gh{
+    width: 270px;
+    height: 60px;
+    background: rgba(3, 3, 3, 0.541);
+    border: 2px solid rgb(185, 184, 184);
+}
+.ga{
+    background-color: rgb(109, 107, 107);
+    border: 2px solid rgb(128, 128, 128);
+    color: white;
+    height: 50px;
+    width: 270px;
+}
+.gs{
+    background-color: white;
+    border: 2px solid rgb(128, 128, 128);
+    color: black;
+    height: 50px;
+    width: 270px;
+}
+.skuchno{
+    color: gray;
+}
+.ruk{
+    text-align: center;
+    border-radius: 150px;
+    border:  2px dashed black;
+    width: 45px;
+    height: 45px;
+}
+.rfl{
+    text-align: center;
+    border-radius: 150px;
+    border:  2px dashed black;
+    width: 45px;
+    height: 45px;
+}
+.makslox{
+    text-align: center;
+    border-radius: 150px;
+    border:  2px dashed black;
+    width: 45px;
+    height: 45px;
+}
+.th{
+   position: absolute;
+   right: 1000px;
+}
+.hik{
+    position: absolute;
+    right: 700px;
+}
+.jk{
+    margin-top: 15px;
+}
+.jl{
+    margin-top: 15px;
+}
+.ju{
+    margin-top: 15px;
+}
+.header3{
+    background-color: rgb(155, 153, 153);
+}
